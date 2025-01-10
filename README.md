@@ -1,9 +1,5 @@
 <h1 align="center">Welcome!</h1><img align="right" src="https://i.gifer.com/7k5Y.gif" width="350"/>
-
-<br/>
-<br/>
-
-# 👨‍💻 Thiago Oliveira
+ 👨‍💻 Thiago Oliveira
 
 **`Engenheiro de Software`**
 
