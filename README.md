@@ -1,7 +1,7 @@
 <h1 align="center">Welcome!</h1><img align="right" src="https://i.gifer.com/7k5Y.gif" width="350"/>
  👨‍💻 Thiago Oliveira
 
-**`Engenheiro de Software`**
+**`Analista de Qualidade`**
 
 Me chamo Thiago Oliveira, tenho 23 anos e sou natural de Ribeirão Preto. Concluí o ensino superior na UNIP, com o curso de Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando Quality Assurance na E2E Treinamentos. Gosto de tecnologia e estou sempre aumentar o meu leque de conhecimento.
 
