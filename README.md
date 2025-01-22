@@ -1,4 +1,4 @@
-<h1 align="center">Welcome!</h1><img align="right" src="https://i.gifer.com/7k5Y.gif" width="350"/>
+<h1 align="center">Welcome!</h1><img align="right" src="https://i.gifer.com/SUV4.gif" width="300"/>
 # 👨‍💻 Thiago Oliveira
 
 **`Analista de Qualidade`**
@@ -18,6 +18,14 @@ Me chamo Thiago Oliveira, tenho 23 anos e sou natural de Ribeirão Preto. Conclu
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/thiago01oliveira?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/thiago-oliveira1601/">
+        <img 
+            alt="LinkedIn" 
+            title="Meu perfil do LinkedIn "
+            img width="32px" 
+            src="https://i.imgur.com/yRpa1dQ.png"/"
         />
     </a>
 </p>
@@ -195,7 +203,7 @@ Me chamo Thiago Oliveira, tenho 23 anos e sou natural de Ribeirão Preto. Conclu
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="170" 
+    height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=thiago01oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -203,6 +211,6 @@ Me chamo Thiago Oliveira, tenho 23 anos e sou natural de Ribeirão Preto. Conclu
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="170" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago01oliveira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
