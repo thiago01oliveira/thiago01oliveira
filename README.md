@@ -1,4 +1,4 @@
-<h1 align="center">Welcome!</h1><img align="right" src="https://i.gifer.com/SUV4.gif" width="300"/>
+<h1 align="center">Welcome!</h1><img align="right" src="https://i.gifer.com/SUV4.gif" width="276"/>
 # 👨‍💻 Thiago Oliveira
 
 **`Analista de Qualidade`**
